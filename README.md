@@ -1,10 +1,7 @@
 # 📦 AtliQ Mart – Supply Chain Performance Dashboard (Power BI)
 
-This project is part of the Codebasics Resume Project Challenge (Oct 2023). It showcases my end-to-end skills in data analysis, storytelling with visuals, and dashboard design — focused on solving a real-world **supply chain issue** at AtliQ Mart, a growing FMCG brand in India.
+This project is part of the Codebasics Resume Project Challenge . It showcases my end-to-end skills in data analysis, storytelling with visuals, and dashboard design — focused on solving a real-world **supply chain issue** at AtliQ Mart, a growing FMCG brand in India.
 
-🟢 **Live Dashboard**: Coming soon  
-🎥 **Demo Video**: Optional  
-📂 **Data Folder**: [View Raw Files](./data/)
 
 ---
 
@@ -46,7 +43,7 @@ As the analyst (roleplay: **Peter Pandey**), I was tasked to:
 | **OTIF%** | Orders delivered both on time and in full |
 | **LIFR%** | Line Item Fill Rate |
 | **VOFR%** | Volume Fill Rate |
-| **ADOD** | Average Days of Delivery Delay |
+| **ADDD** | Average Days of Delivery Delay |
 
 ---
 
@@ -68,7 +65,7 @@ As the analyst (roleplay: **Peter Pandey**), I was tasked to:
 
 ## 🧾 Data Model
 
-<img src="https://github.com/YOUR_USERNAME/AtliQ_Mart_Supply_Chain_Analysis/blob/main/resources/data_model.png" height="400">
+<img src="Data Model.png" height="400">
 
 ---
 
@@ -83,5 +80,4 @@ As the analyst (roleplay: **Peter Pandey**), I was tasked to:
 
 ---
 
-## 📁 Folder Structure
 
