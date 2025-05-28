@@ -62,7 +62,7 @@ As the analyst (roleplay: **Peter Pandey**), I was tasked to:
 
 ## 📸 Dashboard Overview
 
-<img src="./dashboard.png" width="800">
+<img src="Dashboard.jpg" width="800">
 
 ---
 
