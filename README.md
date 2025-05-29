@@ -2,6 +2,13 @@
 
 This project is part of the Codebasics Resume Project Challenge . It showcases my end-to-end skills in data analysis, storytelling with visuals, and dashboard design — focused on solving a real-world **supply chain issue** at AtliQ Mart, a growing FMCG brand in India.
 
+---
+
+## 🔗 Live Interactive Dashboard
+
+👉 [Live Interactive Dashboard](https://project.novypro.com/zCrZKF)
+
+
 
 ---
 
